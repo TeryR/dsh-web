@@ -107,6 +107,8 @@
   disabled: true
 - id: web-ui-skill-explorer
   disabled: true
+- id: web-ui-pet
+  disabled: true
 
 # external bundle: @linxin666/dsh-client-ui-community-plugins
 
